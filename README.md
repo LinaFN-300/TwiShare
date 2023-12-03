@@ -1,0 +1,1 @@
+現在アクティブになっているタブのURLをTwitter(X)でTweet(Post)する拡張機能
